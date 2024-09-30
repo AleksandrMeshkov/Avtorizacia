@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/glavniy"
+    tools:context=".Glavnaya">
+
+
+    <TextView
+        android:id="@+id/emailname"
+        android:layout_width="215dp"
+        android:layout_height="23dp"
+        android:layout_marginStart="98dp"
+        android:layout_marginTop="101dp"
+        android:layout_marginEnd="98dp"
+        android:layout_marginBottom="607dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

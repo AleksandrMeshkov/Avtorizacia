@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Avtorizcia</string>
+    <string name="account_prompt">Еще нет аккаунта? Зарегистрируйтесь</string>
+</resources>
